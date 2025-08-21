@@ -1,1 +1,0 @@
-# pubmedQA_study
